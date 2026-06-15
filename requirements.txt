@@ -1,0 +1,13 @@
+langchain
+python-dotenv
+ipykernel
+langchain_community
+langchain_groq 
+bs4
+chroma
+langchain_huggingface
+langchain-core
+langchain_text_splitters
+langchain
+langchain_chroma
+langchain-community
